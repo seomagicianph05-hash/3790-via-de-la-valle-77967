@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph05-hash.github.io/3790-via-de-la-valle-77967/sitemap.xml
+Sitemap: https://3790-via-de-la-valle-77967.pages.dev/sitemap.xml
